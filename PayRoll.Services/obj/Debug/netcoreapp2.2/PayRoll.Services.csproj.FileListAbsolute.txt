@@ -1,0 +1,14 @@
+C:\NETCORE\PayRoll.Services\obj\Debug\netcoreapp2.2\PayRoll.Services.csprojAssemblyReference.cache
+C:\NETCORE\PayRoll.Services\obj\Debug\netcoreapp2.2\PayRoll.Services.csproj.CoreCompileInputs.cache
+C:\NETCORE\PayRoll.Services\obj\Debug\netcoreapp2.2\PayRoll.Services.AssemblyInfoInputs.cache
+C:\NETCORE\PayRoll.Services\obj\Debug\netcoreapp2.2\PayRoll.Services.AssemblyInfo.cs
+C:\NETCORE\PayRoll.Services\bin\Debug\netcoreapp2.2\PayRoll.Services.deps.json
+C:\NETCORE\PayRoll.Services\bin\Debug\netcoreapp2.2\PayRoll.Services.dll
+C:\NETCORE\PayRoll.Services\bin\Debug\netcoreapp2.2\PayRoll.Services.pdb
+C:\NETCORE\PayRoll.Services\bin\Debug\netcoreapp2.2\PayRoll.Entity.dll
+C:\NETCORE\PayRoll.Services\bin\Debug\netcoreapp2.2\PayRoll.Persistence.dll
+C:\NETCORE\PayRoll.Services\bin\Debug\netcoreapp2.2\PayRoll.Entity.pdb
+C:\NETCORE\PayRoll.Services\bin\Debug\netcoreapp2.2\PayRoll.Persistence.pdb
+C:\NETCORE\PayRoll.Services\obj\Debug\netcoreapp2.2\PayRoll.Services.csproj.CopyComplete
+C:\NETCORE\PayRoll.Services\obj\Debug\netcoreapp2.2\PayRoll.Services.dll
+C:\NETCORE\PayRoll.Services\obj\Debug\netcoreapp2.2\PayRoll.Services.pdb
