@@ -12,3 +12,17 @@ C:\NETCORE\PayRoll.Persistence\obj\Debug\netcoreapp2.2\PayRoll.Persistence.dll
 C:\NETCORE\PayRoll.Persistence\obj\Debug\netcoreapp2.2\PayRoll.Persistence.pdb
 C:\NETCORE\PayRoll.Persistence\bin\Debug\netcoreapp2.2\PayRoll.Persistence.runtimeconfig.json
 C:\NETCORE\PayRoll.Persistence\bin\Debug\netcoreapp2.2\PayRoll.Persistence.runtimeconfig.dev.json
+C:\NETCORE\PayRoll\PayRoll.Persistence\bin\Debug\netcoreapp2.2\PayRoll.Persistence.deps.json
+C:\NETCORE\PayRoll\PayRoll.Persistence\bin\Debug\netcoreapp2.2\PayRoll.Persistence.runtimeconfig.json
+C:\NETCORE\PayRoll\PayRoll.Persistence\bin\Debug\netcoreapp2.2\PayRoll.Persistence.runtimeconfig.dev.json
+C:\NETCORE\PayRoll\PayRoll.Persistence\bin\Debug\netcoreapp2.2\PayRoll.Persistence.dll
+C:\NETCORE\PayRoll\PayRoll.Persistence\bin\Debug\netcoreapp2.2\PayRoll.Persistence.pdb
+C:\NETCORE\PayRoll\PayRoll.Persistence\bin\Debug\netcoreapp2.2\PayRoll.Entity.dll
+C:\NETCORE\PayRoll\PayRoll.Persistence\bin\Debug\netcoreapp2.2\PayRoll.Entity.pdb
+C:\NETCORE\PayRoll\PayRoll.Persistence\obj\Debug\netcoreapp2.2\PayRoll.Persistence.csprojAssemblyReference.cache
+C:\NETCORE\PayRoll\PayRoll.Persistence\obj\Debug\netcoreapp2.2\PayRoll.Persistence.csproj.CoreCompileInputs.cache
+C:\NETCORE\PayRoll\PayRoll.Persistence\obj\Debug\netcoreapp2.2\PayRoll.Persistence.AssemblyInfoInputs.cache
+C:\NETCORE\PayRoll\PayRoll.Persistence\obj\Debug\netcoreapp2.2\PayRoll.Persistence.AssemblyInfo.cs
+C:\NETCORE\PayRoll\PayRoll.Persistence\obj\Debug\netcoreapp2.2\PayRoll.Persistence.csproj.CopyComplete
+C:\NETCORE\PayRoll\PayRoll.Persistence\obj\Debug\netcoreapp2.2\PayRoll.Persistence.dll
+C:\NETCORE\PayRoll\PayRoll.Persistence\obj\Debug\netcoreapp2.2\PayRoll.Persistence.pdb

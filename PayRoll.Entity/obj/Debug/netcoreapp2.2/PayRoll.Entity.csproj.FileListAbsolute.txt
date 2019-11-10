@@ -7,3 +7,12 @@ C:\NETCORE\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.AssemblyInfoInp
 C:\NETCORE\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.AssemblyInfo.cs
 C:\NETCORE\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.dll
 C:\NETCORE\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.pdb
+C:\NETCORE\PayRoll\PayRoll.Entity\bin\Debug\netcoreapp2.2\PayRoll.Entity.deps.json
+C:\NETCORE\PayRoll\PayRoll.Entity\bin\Debug\netcoreapp2.2\PayRoll.Entity.dll
+C:\NETCORE\PayRoll\PayRoll.Entity\bin\Debug\netcoreapp2.2\PayRoll.Entity.pdb
+C:\NETCORE\PayRoll\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.csprojAssemblyReference.cache
+C:\NETCORE\PayRoll\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.csproj.CoreCompileInputs.cache
+C:\NETCORE\PayRoll\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.AssemblyInfoInputs.cache
+C:\NETCORE\PayRoll\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.AssemblyInfo.cs
+C:\NETCORE\PayRoll\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.dll
+C:\NETCORE\PayRoll\PayRoll.Entity\obj\Debug\netcoreapp2.2\PayRoll.Entity.pdb
