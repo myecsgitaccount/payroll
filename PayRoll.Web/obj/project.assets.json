@@ -12192,4 +12192,9 @@
         "imports": [
           "net461"
         ],
-        "assetTarge
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
